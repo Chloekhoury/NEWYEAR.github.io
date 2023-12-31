@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,900);
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(-45deg, #170843 40%, #c3bed0 50%, #17135c 60%);
+}
+
+.header_text {
+    font-family: Lato;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+img {
+    width: 300px !important;
+    height: auto !important;
+    margin-top: 40px;
+  } 
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
