@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #120f4c;
+}
+
+.header_text {
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+img {
+    width: 300px !important;
+    height: auto !important;
+  } 
+
+.gif_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
